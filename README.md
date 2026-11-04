@@ -8,7 +8,7 @@ Smart Tutor is an all-in-one Android app for private tutors, coaching-center ins
 - **Current version:** 1.6 (Build 8)
 - **Category:** Education / Productivity
 - **Website:** [itspabel.github.io/Smart-Tutor](https://itspabel.github.io/Smart-Tutor/)
-- **Contact:** [itstapabel@gmail.com](mailto:itstapabel@gmail.com)
+- **Contact:** [hello@pabel.pro.bd](mailto:itstapabel@gmail.com)
 
 ## Features
 
@@ -67,7 +67,7 @@ Smart Tutor is an all-in-one Android app for private tutors, coaching-center ins
 - Improved fee due calculations to distinguish Upcoming, Due, and Overdue fees using student joining dates and payment deadlines.
 - Improved multi-month payments with dynamic month chips.
 - Added tap-to-call actions to student profiles.
-- Added a recommendation for [Pockeva](https://play.google.com/store/apps/details?id=com.pabel.pockeva), a personal finance and budget manager.
+- Added a recommendation for [Pockeva](https://itspabel.github.io/Pockeva/), a personal finance and budget manager.
 - Reduced APK size by 78% and added ABI-specific release builds.
 - Improved stability, performance, and UI alignment across Android screen sizes.
 
@@ -81,5 +81,4 @@ Smart Tutor is designed to work offline, and student data stays on your device. 
 
 ## Developer
 
-**Pabel**  
-[Website](https://itspabel.github.io/Smart-Tutor/) · [Email](mailto:itstapabel@gmail.com)
+**Tasfiqul Alam Pabel** 
